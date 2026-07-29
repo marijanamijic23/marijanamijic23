@@ -1,12 +1,12 @@
 # Hey there! 👋
 
-I'm **Marijana**, a Junior Full-Stack Web Developer and Applied Software Engineering student passionate about building clean, scalable, and reliable applications with .NET.
+I'm **Marijana**, a Junior Full-Stack Web Developer and Applied Software Engineering student passionate about building modern, scalable web applications with **.NET** and **React**.
 
 ## 👩‍💻 About Me
 
-- 🔭 Currently building **ASP.NET Core Web API** projects.
-- 🌱 Learning **JWT, Authentication & Authorization, FluentValidation, and software testing**.
-- 💬 Ask me about **C#, SQL, ASP.NET Core, REST APIs, xUnit, and Moq**.
+- 🔭 Currently building **ASP.NET Core Web APIs** and **React** applications.
+- 🌱 Learning **JWT, Authentication & Authorization, FluentValidation, Docker, and software testing**.
+- 💬 Ask me about **C#, SQL, ASP.NET Core, React, REST APIs, xUnit, and Moq**.
 - 📸 Fun fact: I enjoy capturing moments with my camera just as much as solving coding challenges.
 
 ## 🌐 Connect with Me
@@ -21,7 +21,7 @@ I'm **Marijana**, a Junior Full-Stack Web Developer and Applied Software Enginee
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,git,github,visualstudio,vscode,postman,mysql&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,html,css,js,git,github,visualstudio,vscode,postman,jira,docker&perline=6" />
 </p>
 
 ### ⚙️ Also Working With
