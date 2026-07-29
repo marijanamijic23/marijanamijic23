@@ -1,13 +1,13 @@
-# Hey there! ✨
+# Hey there! 👋
 
-I'm Marijana, welcome to my GitHub!
+I'm **Marijana**, welcome to my GitHub! I'm an Applied Software Engineering student passionate about building clean, scalable, and reliable web applications with .NET.
 
-## 👩‍💻 Who I Am
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on **ASP.NET Core Web API** and **React** projects.
-- 🌱 I’m currently learning **JWT, Authentication & Authorization, FluentValidation, and Docker**.
-- 💬 Ask me about **C#, SQL, ASP.NET Core Web API, React, xUnit, and Moq**.
-- 📫 How to reach me:
+- 🔭 Currently building **ASP.NET Core Web APIs** and exploring **React**.
+- 🌱 Currently learning **JWT, Authentication & Authorization, FluentValidation, Docker, and software testing**.
+- 💬 Ask me about **C#, SQL, ASP.NET Core Web API, REST APIs, xUnit, and Moq**.
+- 📫 Reach me here:
 
   <a href="mailto:marijanamijic23@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -16,10 +16,14 @@ I'm Marijana, welcome to my GitHub!
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-- ⚡ Fun fact: Debugging or photography? Why not both? 😄
+- 📸 Fun fact: I never miss a good photo—or a good bug to fix.
 
-## 🚀 Skills
+## 🚀 Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,git,github,visualstudio,vscode,postman,mysql&perline=6" />
 </p>
+
+### ⚙️ Also Working With
+
+`ASP.NET Core` • `Entity Framework Core` • `SQL Server` • `REST APIs` • `JWT` • `FluentValidation` • `xUnit` • `Moq` • `Clean Architecture`
