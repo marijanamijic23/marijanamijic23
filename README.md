@@ -1,29 +1,25 @@
-# Hey there! 👋
+# Hey there! ✨
 
-I'm **Marijana**, a Junior Full-Stack Web Developer and Applied Software Engineering student passionate about building modern, scalable web applications with **.NET** and **React**.
+I'm Marijana, welcome to my GitHub!
 
-## 👩‍💻 About Me
+## 👩‍💻 Who I Am
 
-- 🔭 Currently building **ASP.NET Core Web APIs** and **React** applications.
-- 🌱 Learning **JWT, Authentication & Authorization, FluentValidation, Docker, and software testing**.
-- 💬 Ask me about **C#, SQL, ASP.NET Core, React, REST APIs, xUnit, and Moq**.
-- 📸 Fun fact: I enjoy capturing moments with my camera just as much as solving coding challenges.
+- 🔭 I’m currently working on **ASP.NET Core Web API** and **React** projects.
+- 🌱 I’m currently learning **JWT, Authentication & Authorization, FluentValidation, and Docker**.
+- 💬 Ask me about **C#, SQL, ASP.NET Core Web API, React, xUnit, and Moq**.
+- 📫 How to reach me:
 
-## 🌐 Connect with Me
+  <a href="mailto:marijanamijic23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/marijana-mijic-758962425/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<a href="mailto:marijanamijic23@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/marijana-mijic-758962425/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+- ⚡ Fun fact: Debugging or photography? Why not both? 😄
 
-## 🚀 Tech Stack
+## 🚀 Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,html,css,js,git,github,visualstudio,vscode,postman,jira,docker&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,git,github,visualstudio,vscode,postman,mysql&perline=6" />
 </p>
-
-### ⚙️ Also Working With
-
-`ASP.NET Core` • `Entity Framework Core` • `SQL Server` • `REST APIs` • `JWT` • `FluentValidation` • `xUnit` • `Moq` • `Clean Architecture`
