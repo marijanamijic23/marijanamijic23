@@ -7,6 +7,7 @@ About me:
 - 💬 Ask me about C#, SQL, ASP.NET Core Web API, xUnit, Moq
 - 📫 How to reach me: marijanamijic23@gmail.com
 - ⚡ Fun fact: Debugging or photography? Why not both? 😄
+  
 Socials:
 https://www.linkedin.com/in/marijana-mijic-758962425/
 
