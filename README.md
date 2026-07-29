@@ -9,5 +9,6 @@ About me:
 - ⚡ Fun fact: Debugging or photography? Why not both? 😄
   
 Socials:
+
 https://www.linkedin.com/in/marijana-mijic-758962425/
 
