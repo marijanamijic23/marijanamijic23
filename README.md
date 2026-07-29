@@ -13,5 +13,8 @@ I'm Marijana, welcome to my GitHub!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marijana-mijic-758962425/)
 
 🚀 Skills:
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+
+<a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="C#" />
+</a>
 
