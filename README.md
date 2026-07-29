@@ -14,6 +14,6 @@ I'm Marijana, welcome to my GitHub!
 
 🚀 Skills:
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,html,css,js,git,github,visualstudio,vscode,postman,jira,mysql&perline=7" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,html,css,js,ts,git,github,visualstudio,vscode,postman,jira,docker,linux&perline=5" />
 </p>
