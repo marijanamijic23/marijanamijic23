@@ -15,6 +15,5 @@ I'm Marijana, welcome to my GitHub!
 🚀 Skills:
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=csharp,dotnet,aspnetcore,efcore,sqlserver,html,css,javascript,git,github,visualstudio,vscode,postman,jwt,fluentvalidation,xunit,moq,julia,swagger" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,ts,html,css,bootstrap,tailwind,nodejs,express,mysql,git,github,visualstudio,vscode,postman,julia&perline=9" />
 </p>
-
